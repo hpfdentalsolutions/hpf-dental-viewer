@@ -1,6 +1,6 @@
 # HPF Dental Viewer
 
-<img src="assets/cover-2.png" alt="HPF Dental Viewer" width="100%">
+<img src="assets/cover-3.png" alt="HPF Dental Viewer" width="100%">
 
 > An embeddable 3D dental viewer, steerable by voice, with case sharing by simple link.
 
